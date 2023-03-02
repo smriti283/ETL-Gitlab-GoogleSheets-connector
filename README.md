@@ -18,7 +18,7 @@ The following libraries are used in the script, some of which may need to be ins
 
 
 
-## B. SCRIPT DESCRIPTION:
+## SCRIPT DESCRIPTION:
 
 
 The script is divided into 5 functions, the detailed descriptions of which are given below:
